@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Samsung",
+    "description": "A 20",
+    "code": "P001",
+    "price": 150,
+    "status": true,
+    "stock": 15,
+    "category": "Categoría 1"
+  },
+  {
+    "id": 2,
+    "title": "Samsung",
+    "description": "A 52",
+    "code": "P002",
+    "price": 200,
+    "status": true,
+    "stock": 20,
+    "category": "Celulares"
+  },
+  {
+    "id": 3,
+    "title": "Motorola",
+    "description": "Moto e40",
+    "code": "P003",
+    "price": 300,
+    "status": true,
+    "stock": 30,
+    "category": "Celulares"
+  }
+]
